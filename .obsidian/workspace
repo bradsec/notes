@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "428118049ac34dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0aa8bcc015ba495",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fe78e56e4dc1c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ccd5a0d6d29a196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "518b2604078144b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66568a8e4afb928b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "955c7b223eb4b4e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85b125317d3d3592",
+    "type": "split",
+    "children": [
+      {
+        "id": "4127c414baecdbe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75f1a4b098a71f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee359e22b83fef6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8179063858d221b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2eaf9658afa8b143",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "518b2604078144b7",
+  "lastOpenFiles": [
+    "101_debian/debian setup notes.md",
+    "README.md",
+    "This is a test note.md",
+    "101_golang/golang basics intro notes.md",
+    "101_pfsense/pfsense lets encrypt haproxy.md",
+    "101 pfsense/README.md",
+    "101_vscode/vscode cheatsheet.md",
+    "101_vim/vim setup and cheatsheet.md",
+    "101_powershell/powershell notes.md",
+    "999_templates/course_tmpl.md"
+  ]
+}
