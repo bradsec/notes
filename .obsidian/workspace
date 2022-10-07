@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c0aa8bcc015ba495",
+        "id": "6af14cdd8c6760f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "518b2604078144b7",
+  "active": "6af14cdd8c6760f2",
   "lastOpenFiles": [
-    "101_debian/debian setup notes.md",
     "README.md",
+    "101_debian.md",
+    "101_vim/vim setup and cheatsheet.md",
+    "101_debian/debian setup notes.md",
     "This is a test note.md",
     "101_golang/golang basics intro notes.md",
     "101_pfsense/pfsense lets encrypt haproxy.md",
     "101 pfsense/README.md",
     "101_vscode/vscode cheatsheet.md",
-    "101_vim/vim setup and cheatsheet.md",
-    "101_powershell/powershell notes.md",
-    "999_templates/course_tmpl.md"
+    "101_powershell/powershell notes.md"
   ]
 }

@@ -1,14 +1,5 @@
-# Obsidian technical notes vault - study notes, guides, cheatsheats and howtos
+# Obsidian technical notes vault - 
 
-## Misc
-
-- [[debian setup notes]]
-- [[golang basics intro notes]]
-- [[pfsense lets encrypt haproxy]]
-- [[powershell notes]]
-- [[vim setup and cheatsheet]]
-- [[vscode cheatsheet]]
-
-## Course Notes
-
-- 
+- Course study notes
+- Setup and configuration guides (how to)
+- Cheat sheets
