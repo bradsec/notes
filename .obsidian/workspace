@@ -130,11 +130,11 @@
   },
   "active": "567c26e5ffd773b4",
   "lastOpenFiles": [
-    "101_pfsense/pfsense lets encrypt haproxy.md",
+    "101_debian/debian setup notes.md",
     "README.md",
+    "101_pfsense/pfsense lets encrypt haproxy.md",
     "101_debian.md",
     "101_vim/vim setup and cheatsheet.md",
-    "101_debian/debian setup notes.md",
     "This is a test note.md",
     "101_golang/golang basics intro notes.md",
     "101 pfsense/README.md",

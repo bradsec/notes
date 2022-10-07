@@ -5,6 +5,6 @@
   "showLineNumber": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }
