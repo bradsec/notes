@@ -295,6 +295,3 @@ F2                Rename Symbol
 ⌘K M              Change file language
 ```
 
-
----
-Reference(s): 

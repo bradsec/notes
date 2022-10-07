@@ -196,7 +196,3 @@ Ctrl+=          make all viewports equal size
 :wq!            save/write/quit the file even if readonly
 ```
 
-
-
----
-Reference(s): 

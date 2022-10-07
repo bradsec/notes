@@ -5,8 +5,3 @@ Course:
 Topics: [[]]  
 
 ---
-
-
-
----
-Reference(s): 

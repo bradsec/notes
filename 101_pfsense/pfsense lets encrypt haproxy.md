@@ -121,12 +121,3 @@ Description:    pfsense Firewall
 
 ## TO BE CONTINUED... ##
 Configuring HAProxy for use with wildcard Let's Encrypt certificate...
-
-
-
-
-
-
-
----
-Reference(s): 

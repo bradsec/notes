@@ -304,8 +304,3 @@ func checkResponse(s string) (string, error) {
 
 ## Additional Information and Articles
 - Our Software Dependency Problem [research.swtch.com/deps](https://research.swtch.com/deps)
-
-
-
----
-Reference(s): 

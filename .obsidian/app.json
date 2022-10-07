@@ -6,5 +6,9 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-AU"
+  ]
 }

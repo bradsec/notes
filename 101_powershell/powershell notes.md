@@ -54,8 +54,3 @@ Should return `Firewall rule 'OpenSSH-Server-In-TCP' has been created and exists
    - Enabled
    - Download repair content and optional features directly from Windows Update instead of Windows Server Update Services (WSUS)
 - Reboot system and try Add-WindowsCapability again.
-
-
-
----
-Reference(s): 

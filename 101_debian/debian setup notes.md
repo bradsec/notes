@@ -1,6 +1,6 @@
 ## debian setup notes
 
-Topics: [[debian]]  
+Topics: [[debian]] [[linux]] [[kali]] [[ubuntu]]  
 
 ---
 # Debian Linux (including Kali, Ubuntu, PopOS)<br>Installation Notes, Hints & Tips
@@ -397,9 +397,3 @@ gpg --decrypt --output decryptedfilename.txt encryptedfilename.gpg
 # Enter private key pass phrase
 ```
 
-
-
-
-
----
-Reference(s): 
