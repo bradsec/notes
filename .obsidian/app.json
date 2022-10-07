@@ -4,5 +4,7 @@
   "promptDelete": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true
 }
