@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "000_course/tcm_peh/scanning and enumeration.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "000_course/tcm_peh/scanning and enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "000_course/tcm_peh/scanning and enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "000_course/tcm_peh/scanning and enumeration.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "396f56aa50b69418",
   "lastOpenFiles": [
-    "101_pfsense/pfsense lets encrypt haproxy.md",
-    "101_golang/golang basics intro notes.md",
-    "README.md",
-    "001_cybersecurity/common cyber infosec security terminology.md",
-    "001_cybersecurity/reverse shell basic example.md",
-    "001_cybersecurity/phishing related terminology.md",
-    "001_cybersecurity/governance compliance data sovereignty.md",
-    "001_cybersecurity/symmetric vs asymmetric encryption.md",
+    "peh.md",
+    "000_course/tcm_peh/scanning and enumeration.md",
+    "000_course/tcm_peh/networking refresher.md",
+    "000_course/tcm_peh/information gathering reconnaissance.md",
+    "101_debian/commands.md",
+    "networking.md",
     "001_cybersecurity/access control models.md",
-    "001_cybersecurity/common cyber attacks.md"
+    "000_course/Untitled.md",
+    "001_cybersecurity/governance compliance data sovereignty.md",
+    "001_cybersecurity/reverse shell basic example.md"
   ]
 }
