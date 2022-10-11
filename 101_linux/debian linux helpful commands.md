@@ -46,9 +46,8 @@ route
 
 ```bash
 # Show open network ports related programs/services
-`sudo netstat -tulpan`
+sudo netstat -tulpan
 
 # Continuously watch for `ESTABLISHED` connections (update every 3 seconds) 
-
-`sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"`
+sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"
 ```

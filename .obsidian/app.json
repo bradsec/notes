@@ -10,5 +10,6 @@
   "spellcheckLanguages": [
     "en-US",
     "en-AU"
-  ]
+  ],
+  "readableLineLength": false
 }
