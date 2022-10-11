@@ -6,11 +6,12 @@
 
 ## Misc Notes
 
-- [debian setup notes](101_debian/debian%20setup%20notes.md)
+- [debian setup notes](101_linux/debian%20setup%20notes.md)
+- [debian linux helpful commands](101_linux/debian%20linux%20helpful%20commands.md)
 - [golang basics intro notes](101_golang/golang%20basics%20intro%20notes.md)
 - [pfsense lets encrypt haproxy](101_pfsense/pfsense%20lets%20encrypt%20haproxy.md)
 - [docker basics](101_docker/docker%20basics.md)
-- [powershell notes](101_powershell/powershell%20notes.md)
+- [powershell notes](101_windows/powershell%20notes.md)
 - [vim setup and cheatsheet](101_vim/vim%20setup%20and%20cheatsheet.md)
 - [vscode cheatsheet](101_vscode/vscode%20cheatsheet.md)
 - [access control models (sec+)](001_cybersecurity/access%20control%20models.md)
@@ -24,3 +25,8 @@
 ## Course Notes
 
 - [api security mini course we hack purple notes](001_cybersecurity/api%20security%20mini%20course%20we%20hack%20purple%20notes.md)
+- TCM Practical Ethical Hacker
+	- [networking refresher](000_course/tcm_peh/networking%20refresher.md)
+	- [information gathering reconnaissance](000_course/tcm_peh/information%20gathering%20reconnaissance.md)
+	- [scanning and enumeration](000_course/tcm_peh/scanning%20and%20enumeration.md)
+	- [exploitation basics](000_course/tcm_peh/exploitation%20basics.md)

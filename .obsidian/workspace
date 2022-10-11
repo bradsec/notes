@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000_course/tcm_peh/scanning and enumeration.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_course/tcm_peh/scanning and enumeration.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_course/tcm_peh/scanning and enumeration.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_course/tcm_peh/scanning and enumeration.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "396f56aa50b69418",
   "lastOpenFiles": [
-    "peh.md",
-    "000_course/tcm_peh/scanning and enumeration.md",
-    "000_course/tcm_peh/networking refresher.md",
     "000_course/tcm_peh/information gathering reconnaissance.md",
-    "101_debian/commands.md",
-    "networking.md",
-    "001_cybersecurity/access control models.md",
-    "000_course/Untitled.md",
-    "001_cybersecurity/governance compliance data sovereignty.md",
-    "001_cybersecurity/reverse shell basic example.md"
+    "000_course/tcm_peh/networking refresher.md",
+    "000_course/tcm_peh/scanning and enumeration.md",
+    "README.md",
+    "000_course/tcm_peh/exploitation basics.md",
+    "001_cybersecurity/api security mini course we hack purple notes.md",
+    "101_linux/debian linux helpful commands.md",
+    "101_linux/debian setup notes.md",
+    "101_windows/powershell notes.md",
+    "peh.md"
   ]
 }

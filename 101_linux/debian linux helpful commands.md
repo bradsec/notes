@@ -1,8 +1,7 @@
-## commands
+## debian linux helpful commands
 
 Date:  Oct 1, 2022
-Course:  
-Topics: [[linux]] [[debian]] [[commands]] [[terminal]]  
+Topics: [[linux]] [[debian]] [[debian linux helpful commands]] [[terminal]]  
 
 ---
 ## Linux commands and key file locations
@@ -38,6 +37,7 @@ Topics: [[linux]] [[debian]] [[commands]] [[terminal]]
 		`updatedb`
 
 - Open ports and services
-	`netstat -tulpn`
+	`sudo netstat -tulpan`
 
-
+- Continuously watch for `ESTABLISHED` connections (update every 3 seconds) 
+	`sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"`
