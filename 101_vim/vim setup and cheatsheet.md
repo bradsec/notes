@@ -14,7 +14,7 @@ Topics: [[vim]]
 - Tested on Debian based OS.
 
 #### Usage: Download and edit ![[vimconfig.sh]] script or use the one-liner below:
-`bash -c "$(wget -O- https://raw.githubusercontent.com/bradsec/vim/main/vimconfig.sh)"`
+`bash -c "$(wget -O- https://raw.githubusercontent.com/bradsec/notes/main/101_vim/vimconfig.sh"`
 
 ## VIM Cheatsheet (Keyboard Commands)
 ### Movement

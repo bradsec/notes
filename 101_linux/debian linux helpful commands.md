@@ -6,38 +6,49 @@ Topics: [[linux]] [[debian]] [[debian linux helpful commands]] [[terminal]]
 ---
 ## Linux commands and key file locations
 
-- Show user accounts and groups
-`cat /etc/passwd`
+```bash
+# Show user accounts and groups
+cat /etc/passwd
+```
 
-- Show user shadow password file and hashes
-`sudo cat /etc/shadow`
+```bash
+# Show user shadow password file and hashes
+sudo cat /etc/shadow
+```
 
-- Show user sudoers privileges
-`sudo cat /etc/sudoers`
+```bash
+# Show user sudoers privileges
+sudo cat /etc/sudoers
 
-- List users in sudo group
-	`cat /etc/group | grep 'sudo'`
+# List users in sudo group
+cat /etc/group | grep 'sudo'
 
-- List network addresses
-	`ip a`
-	`ifconfig`
+# Edit sudo (must be root to run visudo) su to root
+visudo
+```
 
-- List wireless
-	`iwconfig`
+```bash
+# List network interface details
+ip a
+ifconfig
 
-- List network address including MAC
-	`ip n` or `arp -a`
+# List network address including MAC
+ip n
+arp -a
 
-- Show route (routing table)
-	`ip r` or `route`
+# List wireless details
+iwconfig
 
-- Locate a file
-	`locate thisfile`
-	- Update locate database / search
-		`updatedb`
+# Show route (routing table)
+ip r
+route
+```
 
-- Open ports and services
-	`sudo netstat -tulpan`
+```bash
+# Show open network ports related programs/services
+`sudo netstat -tulpan`
 
-- Continuously watch for `ESTABLISHED` connections (update every 3 seconds) 
-	`sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"`
+# Continuously watch for `ESTABLISHED` connections (update every 3 seconds) 
+
+`sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"`
+```
