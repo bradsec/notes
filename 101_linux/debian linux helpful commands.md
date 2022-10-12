@@ -51,3 +51,8 @@ sudo netstat -tulpan
 # Continuously watch for `ESTABLISHED` connections (update every 3 seconds) 
 sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"
 ```
+
+```bash
+# curl ignore SSL certificate errors and follow redirects including 301
+curl -kL https://address
+```

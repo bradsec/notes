@@ -112,6 +112,31 @@ gsettings set org.gnome.desktop.background picture-uri ''
 gsettings set org.gnome.desktop.background primary-color 'rgb(18, 108, 210)'
 ```
 
+### Terminal appearance (hide menu bar and title header bar)
+
+```terminal
+# Terminal appearance improvements
+gsettings set org.gnome.Terminal.Legacy.Settings default-show-menubar false
+gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
+
+# Above headerbar false not working (workaround)
+# Note: This does prevent drag resizing of the terminal window. 
+# The window size has been set manually in preferences
+
+# Install xdotool https://packages.debian.org/buster/x11/xdotool
+sudo apt install xdotool
+
+# Add the following to .zshrc or bash profile
+if [ "$TERM" = "xterm-256color" ]; then
+  xprop \
+    -id $(xdotool getactivewindow) \
+    -f _MOTIF_WM_HINTS 32c \
+    -set _MOTIF_WM_HINTS "0x2, 0x0, 0x0, 0x0, 0x0"
+fi
+
+# Restart terminal and headerbar should be gone. To move terminal around screen right click and show menu.
+```
+
 ## Simple UFW firewall with GUI management
 ```terminal
 sudo apt-get -y install ufw gufw
@@ -314,6 +339,26 @@ If wifi drivers such those in some Intel NUCs are missing try...
 
 ```terminal
 sudo apt-get -y install firmware-iwlwifi
+```
+
+### Remove GRUB timeout, enable splash and disable USB auto suspend power management
+
+```terminal
+# Edit /etc/default/grub and ensure the the following lines exist
+
+GRUB_DEFAULT=0
+GRUB_TIMEOUT=0
+GRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian`
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash usbcore.autosuspend=-1"
+
+# Run GRUB update
+sudo update-grub
+
+# Reboot
+sudo reboot
+
+# Check USB power management has been changed to -1
+cat /sys/module/usbcore/parameters/autosuspend
 ```
 
 ### Install ZSH shell
