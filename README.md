@@ -4,10 +4,13 @@
 - Setup and configuration guides (how to)
 - Cheat sheets
 
-## Misc Notes
+## Debian / Linux Notes
 
 - [debian setup notes](101_linux/debian%20setup%20notes.md)
 - [debian linux helpful commands](101_linux/debian%20linux%20helpful%20commands.md)
+
+## Misc Notes
+
 - [golang basics intro notes](101_golang/golang%20basics%20intro%20notes.md)
 - [pfsense lets encrypt haproxy](101_pfsense/pfsense%20lets%20encrypt%20haproxy.md)
 - [docker basics](101_docker/docker%20basics.md)
