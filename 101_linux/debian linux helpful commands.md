@@ -56,3 +56,24 @@ sudo watch -n 3 "netstat -tulpan | grep ESTABLISHED"
 # curl ignore SSL certificate errors and follow redirects including 301
 curl -kL https://address
 ```
+
+```bash
+# List cron jobs
+crontab -l
+
+# List root user cron jobs
+crontab -u root -l
+
+# List timers that a loaded to run
+systemctl list-timers
+```
+
+```bash
+# Show offered fileshare mounts
+showmount -e 192.168.0.10
+# result return ie. /srv/thisdir
+# To mount make local directory to mount fileshare
+mkdir /mnt/thisdir
+# Mount filesystem
+mount -t nfs 192.168.0.10:/srv/nfs /mnt/thisdir
+```

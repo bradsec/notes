@@ -30,6 +30,7 @@ NMAP Commands
 	- `nikto`
 	- `dirbuster`
 	- `dirb`
+	- `ffuf -w /usr/share/wordlists:FUZZ -u http://192.168.0.1/FUZZ`  
 - Save outputs of scans in notes.
 - dirbuster wordlists
 	- `/usr/share/wordlists/dirbuster/`

@@ -1,17 +1,19 @@
 # Obsidian technical notes vault
 
-- Course study notes
 - Setup and configuration guides (how to)
-- Cheat sheets
+- Links, resources, tools and utilities, cheat sheets
+- Course study notes
+
 
 ## Debian / Linux Notes
-
 - [debian setup notes](101_linux/debian%20setup%20notes.md)
 - [linux applications and terminal utilities](101_linux/linux%20applications%20and%20terminal%20utilities.md)
 - [debian linux helpful commands](101_linux/debian%20linux%20helpful%20commands.md)
 
-## Misc Notes
+## Hacking Cyber Security
+- [hacking osint recon guides tools and resources](001_cybersecurity/hacking%20osint%20recon%20guides%20tools%20and%20resources.md)
 
+## Misc Notes
 - [golang basics intro notes](101_golang/golang%20basics%20intro%20notes.md)
 - [pfsense lets encrypt haproxy](101_pfsense/pfsense%20lets%20encrypt%20haproxy.md)
 - [docker basics](101_docker/docker%20basics.md)
@@ -27,7 +29,6 @@
 - [reverse shell basic example](001_cybersecurity/reverse%20shell%20basic%20example.md)
 
 ## Course Notes
-
 - [api security mini course we hack purple notes](001_cybersecurity/api%20security%20mini%20course%20we%20hack%20purple%20notes.md)
 - TCM Practical Ethical Hacker
 	- [networking refresher](000_course/tcm_peh/networking%20refresher.md)
