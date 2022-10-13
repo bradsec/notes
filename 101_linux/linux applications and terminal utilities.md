@@ -1,4 +1,4 @@
-## linux applications tools and terminal utilities
+## linux applications and terminal utilities
 
 Topics: [[linux]] [[terminal]] [[applications]] [[tools]] [[debian]]
 
@@ -52,7 +52,7 @@ ln -s /usr/bin/batcat ~/.local/bin/bat
 - Source fork maintained: https://github.com/linuxmint/timeshift
 - `sudo apt install timeshift`  
 
-lsd
+**lsd**
 - Enhanced next-gen ls command
 - Written in Rust
 - Source: https://github.com/Peltoche/lsd

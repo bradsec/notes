@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_linux/linux applications tools and terminal utilities.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101_linux/linux applications tools and terminal utilities.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_linux/linux applications tools and terminal utilities.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101_linux/linux applications tools and terminal utilities.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "396f56aa50b69418",
   "lastOpenFiles": [
+    "101_linux/linux applications and terminal utilities.md",
     "README.md",
     "101_linux/debian setup notes.md",
     "000_course/tcm_peh/scanning and enumeration.md",
@@ -138,7 +139,6 @@
     "000_course/tcm_peh/exploitation basics.md",
     "101_linux/debian linux helpful commands.md",
     "999_templates/bashblock_tmpl.md",
-    "999_templates/course_tmpl.md",
-    "101_vim/vim setup and cheatsheet.md"
+    "999_templates/course_tmpl.md"
   ]
 }

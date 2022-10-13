@@ -7,6 +7,7 @@
 ## Debian / Linux Notes
 
 - [debian setup notes](101_linux/debian%20setup%20notes.md)
+- [linux applications and terminal utilities](101_linux/linux%20applications%20and%20terminal%20utilities.md)
 - [debian linux helpful commands](101_linux/debian%20linux%20helpful%20commands.md)
 
 ## Misc Notes
