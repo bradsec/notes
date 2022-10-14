@@ -1,6 +1,6 @@
 ## vim setup and cheatsheet
 
-Topics: [[vim]]  
+Topics: [[vim]] [[cheatsheet]] [[commands]]  
 
 ---
 # `vim` command cheatsheet and related information
@@ -12,6 +12,10 @@ Topics: [[vim]]
 - To use the custom .vimrc preferences when using `sudo` run `sudo -E vim <filename>`
 - Does use `apt` to install and remove VIM (edit script if you don't want this function).
 - Tested on Debian based OS.
+
+### Learn VIM resources
+- https://www.vimified.com/
+
 
 #### Usage: Download and edit ![[vimconfig.sh]] script or use the one-liner below:
 `bash -c "$(wget -O- https://raw.githubusercontent.com/bradsec/notes/main/101_vim/vimconfig.sh"`

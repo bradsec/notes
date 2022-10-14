@@ -14,6 +14,12 @@ Other applications/utilities already included in [debian setup notes](debian%20s
 - Source: https://github.com/dundee/gdu
 - `sudo apt install gdu`  
 
+**lnav**
+- Log file navigator
+- Coloured output
+- Source: https://github.com/tstack/lnav
+- `sudo apt install lnav  
+
 **ripgrep**
 - Recursively searches directories for a regex pattern
 - Written in Rust

@@ -77,3 +77,11 @@ mkdir /mnt/thisdir
 # Mount filesystem
 mount -t nfs 192.168.0.10:/srv/nfs /mnt/thisdir
 ```
+
+```bash
+# Monitor log events -f --follow show only the most recent
+sudo journalctl -f
+
+# View all logs for sudo
+sudo journalctl -e /usr/bin/sudo
+```

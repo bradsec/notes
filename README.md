@@ -11,14 +11,14 @@
 - [debian linux helpful commands](101_linux/debian%20linux%20helpful%20commands.md)
 
 ## Hacking Cyber Security
-- [hacking osint recon guides tools and resources](001_cybersecurity/hacking%20osint%20recon%20guides%20tools%20and%20resources.md)
+- [101 hacking osint recon guides tools and resources](001_cybersecurity/101%20hacking%20osint%20recon%20guides%20tools%20and%20resources.md)
 
 ## Misc Notes
 - [golang basics intro notes](101_golang/golang%20basics%20intro%20notes.md)
 - [pfsense lets encrypt haproxy](101_pfsense/pfsense%20lets%20encrypt%20haproxy.md)
 - [docker basics](101_docker/docker%20basics.md)
 - [powershell notes](101_windows/powershell%20notes.md)
-- [vim setup and cheatsheet](101_vim/vim%20setup%20and%20cheatsheet.md)
+- [cheatsheet vim commands](101_linux/cheatsheet%20vim%20commands.md)
 - [vscode cheatsheet](101_vscode/vscode%20cheatsheet.md)
 - [access control models (sec+)](001_cybersecurity/access%20control%20models.md)
 - [common cyber attacks (sec+) ](001_cybersecurity/common%20cyber%20attacks.md)

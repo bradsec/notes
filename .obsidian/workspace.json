@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "396f56aa50b69418",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "101_linux/debian linux helpful commands.md",
-            "mode": "source",
-            "source": false
+        "id": "7affcfd9480a4664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396f56aa50b69418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101_linux/debian linux helpful commands.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_linux/debian linux helpful commands.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101_linux/debian linux helpful commands.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,17 +136,20 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "396f56aa50b69418",
   "lastOpenFiles": [
+    "001_cybersecurity/101 hacking osint recon guides tools and resources.md",
+    "101_linux/debian setup notes.md",
     "101_linux/linux applications and terminal utilities.md",
-    "README.md",
+    "101_linux/cheatsheet tmux commands.md",
+    "101_linux/cheatsheet vim commands.md",
+    "001_cybersecurity/phishing related terminology.md",
     "101_linux/debian linux helpful commands.md",
-    "001_cybersecurity/hacking osint recon guides tools and resources.md",
-    "001_cybersecurity/access control models.md",
-    "000_course/tcm_peh/scanning and enumeration.md",
-    "000_course/tcm_peh/networking refresher.md",
-    "000_course/tcm_peh/information gathering reconnaissance.md",
-    "000_course/tcm_peh/exploitation basics.md",
-    "000_course/tcm_peh/capstone.md"
+    "101_pfsense/pfsense lets encrypt haproxy.md",
+    "README.md",
+    "001_cybersecurity/access control models.md"
   ]
 }
