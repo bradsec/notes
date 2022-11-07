@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dafb2f880b88e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101_linux/linux applications and terminal utilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2e84721cecbe87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101_vscode/vscode misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76a1755c900d867d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101_linux/grep sed awk commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "101_linux/grep sed awk commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "101_linux/grep sed awk commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "101_linux/grep sed awk commands.md"
               }
             }
           }
@@ -139,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "396f56aa50b69418",
+  "active": "518b2604078144b7",
   "lastOpenFiles": [
+    "101_vscode/vscode misc.md",
+    "VSCode.md",
+    "101_linux/linux applications and terminal utilities.md",
+    "000_course/web_security_academy/1 SQL injection.md",
+    "README.md",
     "001_cybersecurity/101 hacking osint recon guides tools and resources.md",
     "101_linux/debian setup notes.md",
-    "101_linux/linux applications and terminal utilities.md",
     "101_linux/cheatsheet tmux commands.md",
     "101_linux/cheatsheet vim commands.md",
-    "001_cybersecurity/phishing related terminology.md",
-    "101_linux/debian linux helpful commands.md",
-    "101_pfsense/pfsense lets encrypt haproxy.md",
-    "README.md",
-    "001_cybersecurity/access control models.md"
+    "001_cybersecurity/phishing related terminology.md"
   ]
 }
